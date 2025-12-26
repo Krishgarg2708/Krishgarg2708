@@ -6,7 +6,7 @@
 ---
 
 <!-- HERO / BANNER -->
-![Hero banner](https://raw.githubusercontent.com/Krishgarg2708/Krishgarg2708/main/assets/hero-banner.png)
+🧠⚙️
 
 ---
 
