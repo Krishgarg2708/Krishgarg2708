@@ -77,13 +77,15 @@ Built responsive UI components and logic-driven pages with a focus on clarity, s
 If you’re visiting for the first time:
 1. Explore the **Appliance Energy Consumption Analyzer** for data & ML work  
 2. Check the **AI Reasoning Model** for LLM & systems experimentation  
-3. Browse pinned repositories below for smaller focused projects  
 
 ---
 
 ## 📊 GitHub Stats
-![Krishgarg2708's GitHub stats](https://github-readme-stats.vercel.app/api?username=Krishgarg2708&show_icons=true&theme=dark&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishgarg2708&layout=compact&theme=dark&hide_border=true)
+
+![Krish Garg's GitHub stats](https://github-readme-stats.vercel.app/api?username=Krishgarg2708&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishgarg2708&layout=compact&theme=tokyonight&hide_border=true)
+
 
 ---
 
