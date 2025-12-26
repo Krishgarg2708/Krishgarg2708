@@ -87,8 +87,7 @@ If you’re visiting for the first time:
   ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishgarg2708&layout=compact&theme=dark&hide_border=true)
 - Contribution streak:
   ![Contribution streak](https://github-readme-streak-stats.herokuapp.com/?user=Krishgarg2708&theme=dark&hide_border=true)
-- GitHub activity graph:
-  ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Krishgarg2708&theme=github)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Krishgarg2708&theme=tokyo-night&hide_border=true)
 
 ---
 
