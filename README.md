@@ -80,12 +80,15 @@ If you’re visiting for the first time:
 
 ---
 
-## 📊 GitHub Stats
-
-![Krish Garg's GitHub stats](https://github-readme-stats.vercel.app/api?username=Krishgarg2708&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishgarg2708&layout=compact&theme=tokyonight&hide_border=true)
-
+## 📊 GitHub & contribution visuals
+- GitHub stats (kept as requested):
+  ![Krishgarg2708's GitHub stats](https://github-readme-stats.vercel.app/api?username=Krishgarg2708&show_icons=true&theme=dark&hide_border=true)
+- Top languages:
+  ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishgarg2708&layout=compact&theme=dark&hide_border=true)
+- Contribution streak:
+  ![Contribution streak](https://github-readme-streak-stats.herokuapp.com/?user=Krishgarg2708&theme=dark&hide_border=true)
+- GitHub activity graph:
+  ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Krishgarg2708&theme=github)
 
 ---
 
