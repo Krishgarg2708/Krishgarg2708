@@ -30,6 +30,13 @@ I enjoy taking abstract ideas from textbooks or papers and turning them into sys
 
 ---
 
+![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+
+
+---
 ## 🛠️ Core Skills
 
 **Programming**
