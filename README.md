@@ -118,3 +118,9 @@ Actively seeking **Machine Learning**, **Data**, or **Software Engineering inter
 ---
 
 _Last updated: 2025-12-26_
+
+---
+
+<p align="center">
+©️ 2025 Krishgarg2708
+</p>
